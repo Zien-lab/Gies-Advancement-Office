@@ -20,6 +20,10 @@ In this repository, you will find various data analysis tasks related to alumni 
 
 ## Getting Started
 
+This project requires a specific dataset that cannot be publicly shared due to confidentiality agreements. However, you can follow these steps to set up and work with the code:
+
 1. Clone this repository to your local machine:
+   
    ```bash
    git clone https://github.com/yourusername/repository-name.git
+
