@@ -11,11 +11,4 @@ In this repository, you will find various data analysis tasks related to alumni 
 - Data visualization to better understand donation patterns
 - Machine learning models for predicting donation likelihoods
 
-## Files and Directories
-
-- `data/`: Contains the raw and processed datasets.
-- `src/`: Includes the code for data analysis, visualization, and machine learning models.
-- `images/`: Stores visualizations and charts generated during the analysis.
-- `README.md`: Provides an overview of the project and its goals.
-
 
