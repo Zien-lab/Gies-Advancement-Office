@@ -18,12 +18,4 @@ In this repository, you will find various data analysis tasks related to alumni 
 - `images/`: Stores visualizations and charts generated during the analysis.
 - `README.md`: Provides an overview of the project and its goals.
 
-## Getting Started
-
-This project requires a specific dataset that cannot be publicly shared due to confidentiality agreements. However, you can follow these steps to set up and work with the code:
-
-1. Clone this repository to your local machine:
-   
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
 
