@@ -10,5 +10,6 @@ In this repository, you will find various data analysis tasks related to alumni 
 - Correlation analysis to identify relationships between different variables
 - Data visualization to better understand donation patterns
 - Machine learning models for predicting donation likelihoods
+- Cluster Analysis like K-Means and DBSCAN to gain groups patterns.
 
 
