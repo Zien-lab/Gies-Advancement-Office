@@ -7,9 +7,10 @@ This project is a collaboration between our group and the Gies Advancement Offic
 In this repository, you will find various data analysis tasks related to alumni donations at Gies College of Business. The tasks include:
 
 - Data exploration and cleaning
-- Correlation analysis to identify relationships between different variables
+- Performed correlation analysis to identify relationships between variables, with significance testing to validate the strength and reliability of these relationships.
 - Data visualization to better understand donation patterns
 - Machine learning models for predicting donation likelihoods
-- Cluster Analysis like K-Means and DBSCAN to gain groups patterns.
+- Conducted cluster analysis (K-Means, DBSCAN) to uncover group patterns
+
 
 
